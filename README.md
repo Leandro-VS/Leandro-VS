@@ -1,6 +1,6 @@
 ### Hi there I'am Leandro Vieira 👋
 
-- 🔭 I’m currently working on Machine Learning Engineer
+- 🔭 I’m currently working as Machine Learning Engineer
 - 🌱 I’m currently learning ML, MLOps, Statistic and Physics (of corse)
 ##
 
