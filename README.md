@@ -26,3 +26,5 @@
     <a href="https://www.linkedin.com/in/leandro-vieira-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
+## Pinned Repositories
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leandro-VS&repo=bootcamp-data-platform&theme=radical)](https://github.com/Leandro-VS/bootcamp-data-platform)
